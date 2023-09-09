@@ -1,21 +1,10 @@
 # react-native-fancy-table
 
-react native responsive,scrollable data table
+React Native Scrollable,Dynamic, Responsive Data table view horizontal and vertical. :point_left:	:point_left:	:point_left:	:point_left: :sparkling_heart::sparkling_heart::sparkling_heart: :v::v::v:
 
-<table>
-  <tr>
-     <td>Uncheck all option</td>
-    <td>Check all options</td>
-     <td>Check single options</td>
-  </tr>
-  <tr>
-    <td>![Screenshot a](screenshots/a.png)</td>
-    <td>![Screenshot b](screenshots/b.png) </td>
-    <td>![Screenshot c](screenshots/c.png)</td> 
-  </tr>
- </table>
 
-| ![Screenshot a](screenshots/a.png) | ![Screenshot b](screenshots/b.png) | ![Screenshot error]![Screenshot c](screenshots/c.png) |
+
+| ![Screenshot a](screenshots/a.png) | ![Screenshot b](screenshots/b.png) |![Screenshot c](screenshots/c.png) |
 | ---------------------------------- | ---------------------------------- | ----------------------------------------------------- |
 
 ## Installation
