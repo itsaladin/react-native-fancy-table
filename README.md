@@ -9,12 +9,14 @@ react native responsive,scrollable data table
      <td>Check single options</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/3.png?token=GHSAT0AAAAAACCG26XGOV7B67VQY6UUILVCZHN7UAA" width="250"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/1.png?token=GHSAT0AAAAAACCG26XHISGUM565NQ54X7W2ZHN7SOA" width="250"/></td>
-    <td><img src="https://raw.githubusercontent.com/itsaladin/react-native-tree-menu/main/screenshots/2.png?token=GHSAT0AAAAAACCG26XGGXAF6D2YW6SV7TZQZHN7TJA" width="250"/></td>
-    
+    <td>![Screenshot a](screenshots/a.png)</td>
+    <td>![Screenshot b](screenshots/b.png) </td>
+    <td>![Screenshot c](screenshots/c.png)</td> 
   </tr>
  </table>
+
+| ![Screenshot a](screenshots/a.png) | ![Screenshot b](screenshots/b.png) | ![Screenshot error]![Screenshot c](screenshots/c.png) |
+| ---------------------------------- | ---------------------------------- | ----------------------------------------------------- |
 
 ## Installation
 
@@ -32,7 +34,6 @@ npm install react-native-fancy-table
 
 ```js
 import * as React from 'react';
-
 import { StyleSheet, Text, View } from 'react-native';
 import FancyTable from 'react-native-fancy-table';
 
