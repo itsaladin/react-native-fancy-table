@@ -67,7 +67,7 @@ const FancyTable = ({
                 backgroundColor: headerBGColor || 'silver',
               }}
             >
-              {header?.map((item: object, index: number) => {
+              {header?.map((item: any, index: number) => {
                 return (
                   <View
                     key={index}
@@ -102,7 +102,7 @@ const FancyTable = ({
                       }}
                       key={id}
                     >
-                      {items?.map((subItems: object, sIndex: number) => {
+                      {items?.map((subItems: any, sIndex: number) => {
                         return (
                           <View
                             key={sIndex}
