@@ -56,7 +56,7 @@ const FancyTable = ({
             height: __height || __defaultHeight,
             borderColor: borderColor,
             borderWidth: borderWidth,
-            margin: 5,
+            // margin: 5,
           }}
           horizontal={true}
         >
